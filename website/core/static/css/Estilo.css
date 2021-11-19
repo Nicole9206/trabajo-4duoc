@@ -1,0 +1,54 @@
+.h1 {
+    text-align: left;
+}
+
+.media {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.fondo {
+    background: url(Img1/libros.jpg);
+    background-size: cover;
+}
+
+.button {
+    font-size: 15px;
+    background: #78ABFE;
+    padding: 10px 20px 10px 20px;
+    color: white;
+}
+
+.fondo2 {
+    background: url(Img/green.jpg);
+}
+
+body {
+    background: lightgreen;
+}
+
+.pie {
+    margin-top: 15%;
+}
+
+.pie1 {
+    margin-top: 40%;
+}
+
+.title {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.container {
+    margin-top: 5%;
+    padding: 40px;
+}
+
+.descripcion {
+    margin: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background: lightgreen;
+}
